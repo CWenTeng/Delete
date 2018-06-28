@@ -35,7 +35,6 @@ public class delete {
             System.out.println("失败");
         } else {
             System.out.println("成功");
-
         }
     }
 
